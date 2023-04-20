@@ -1,2 +1,11 @@
 
 /* Your CSS Code here. */
+
+/* Your CSS Code here. */
+table, tr, td{
+	border:2px solid dimgray;
+}
+video{
+	width:300px;
+	height:200px;
+}
